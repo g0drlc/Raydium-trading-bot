@@ -1,0 +1,724 @@
+mintID====: 8jFTv8WALU6WXeEFtzkZzThkPf83WxwYMqeraTgupump
+poolID====: 3Dr8uP1QiX2PUQmEn9ojAfByWYUU3hDwDNQeVJX6Cby5
+LP====: 98Sp7NUbaCAvhq8w5ygyJr1WFNw7g8NnPEsq9moRFkEJ
+vaultAmt=====: 114.861193119
+===================================new buy tx====================================
+baseToken: 8jFTv8WALU6WXeEFtzkZzThkPf83WxwYMqeraTgupump
+mintID====: 4AGAQbWP5sV1DhteZPuqXSAaw4ykTodfBmfRHJ4jpump
+poolID====: Agxhi8eUYKMTZnJGjqTWtsP7AaVSVdfKokGHMZtp3cU2
+LP====: DKk6cgn5Y8TvYyusA5CHed5RGUU3nbTzkK24ecm514m3
+vaultAmt=====: 107.831292986
+===================================new buy tx====================================
+baseToken: 4AGAQbWP5sV1DhteZPuqXSAaw4ykTodfBmfRHJ4jpump
+mintID====: 83z64mKGwjWecJmekE696rJYAHRYEPemMox6dg4Ypump
+poolID====: 9K7HHJaxAvBjDqDwY19xiP5ErNpDY6NMMmW9EUSBgRF8
+LP====: Hf6XfYUF4Kd1jnwQrp2HcSeYEkQ7TWrxBNLZchT1N9Ru
+vaultAmt=====: 86.614271289
+===================================new buy tx====================================
+baseToken: 83z64mKGwjWecJmekE696rJYAHRYEPemMox6dg4Ypump
+mintID====: BMniPiFA2TGq9Kqstq48JzEpdQQg1KrQcsGNbkKapump
+poolID====: HcZ9rzAgwmwDogZkUafj3Y6cPFkB6u8vLjNFqCmybTaP
+LP====: 6jd3fwnTz6vjJdnW8PJdxKmXrQJhYAhQN8eEYkcSEkYh
+vaultAmt=====: 100.630019538
+===================================new buy tx====================================
+baseToken: BMniPiFA2TGq9Kqstq48JzEpdQQg1KrQcsGNbkKapump
+mintID====: 4GJ4rUa9Pnh8xo5KbmZffN946JDLXL3KYFHSm2bepump
+poolID====: 9svvm2NUY57Nz7E9xdhCLftkFn8gGN2GAKvhgVuLNCBR
+LP====: 9wc4jccaUjvxhGqucfuPts2qtHNwfPfyyHgSnXyzc6sm
+vaultAmt=====: 161.181649971
+===================================new buy tx====================================
+baseToken: 4GJ4rUa9Pnh8xo5KbmZffN946JDLXL3KYFHSm2bepump
+mintID====: F9SF47BfzkZ78wGe47oxFz5frrshDv2NEFQnCH5mpump
+poolID====: GNs5TGGbFL5Xn6FRGjBNRyPaALSEoR39R8QFuNA3UesR
+LP====: H4Y94XjZ1sEdAgnBqzFQEUT8Cvm8QECigufF6pNYLiCz
+vaultAmt=====: 92.859296262
+===================================new buy tx====================================
+baseToken: F9SF47BfzkZ78wGe47oxFz5frrshDv2NEFQnCH5mpump
+mintID====: 8ZyuoC6WxUhFmWvTVFoTtSA2gxQ57YCTjWB36aLUpump
+poolID====: 7C3VZmAbSeSzCeGiX1y63E2mAFw3kurRAEUcKi57Bk9J
+LP====: D39Ak2mmuVUKXt5FNrtNCWyosscgxHKP41trWtExJXNP
+vaultAmt=====: 84.533823227
+===================================new buy tx====================================
+baseToken: 8ZyuoC6WxUhFmWvTVFoTtSA2gxQ57YCTjWB36aLUpump
+mintID====: 9Act2vjaBQBZwwQC7CgwJfLsMuAb8Bb3ip549RKJpump
+poolID====: GFsygEJ8zp8AXFUPQ3QUgc74dLqHL5asCYaBPZmPJ7xi
+LP====: CuBaYmGCdrG4enSNHzWiC9NBXYict6cYsugaWMt9fgXj
+vaultAmt=====: 105.032780741
+mintID====: DQ7Jo3M15U9mTmehf25mxfbzJREquQcS8zArpm3xpump
+poolID====: ctWPSp3SBkFMKLq8PWFRFBHG8uw7TrEG2HEVPV7wFBu
+LP====: oAR6HvMEuiezxhzhZvwy65hUBACZiMmNyCeoYyvJokc
+vaultAmt=====: 95.188844768
+===================================new buy tx====================================
+baseToken: DQ7Jo3M15U9mTmehf25mxfbzJREquQcS8zArpm3xpump
+mintID====: 25fgYqu1LorL7HXZ39VFhRKnJhXzqxzkqi8xn1mSpump
+poolID====: 4SvRhPc2HYvHQnfxu1uTWzn19B2wqF67rShrStJncw74
+LP====: 5Na1NWkF28UvkrtiDpy3A9879KFcketCD7QBy3q9ANiE
+vaultAmt=====: 81.364612049
+===================================new buy tx====================================
+baseToken: 25fgYqu1LorL7HXZ39VFhRKnJhXzqxzkqi8xn1mSpump
+mintID====: 488qTghH69DRqHKwHg7hokiEaYu3rsdWv8QFztACpump
+poolID====: 7HqWatsdiYjXdUisfteuPE5nu9qeX5vXU1psCEi92Zpc
+LP====: BQYZuZ3sHUxxndpPMuNa6EWRqAHrcX3VzJfpkaUGXSEN
+vaultAmt=====: 126.040449019
+===================================new buy tx====================================
+baseToken: 488qTghH69DRqHKwHg7hokiEaYu3rsdWv8QFztACpump
+mintID====: sJkH7QbSWJUGd4fRAsvJ9GECsnsPZVYEFtf8Eyypump
+poolID====: 5Vk4tR4RM15HGonon6RNSGinoDpa94sfpvc7TRkBwznS
+LP====: 66THaZ8sahvmxYrSnHmiveVfTciF1bJYpa48p6YMQTfP
+vaultAmt=====: 89.176552704
+===================================new buy tx====================================
+baseToken: sJkH7QbSWJUGd4fRAsvJ9GECsnsPZVYEFtf8Eyypump
+mintID====: 6b1Gj8h5N7TSZv3HwnqXkGShZGZJ6GCrfRkha3Djpump
+poolID====: 2wHkEdKfDwstSXjEQu4KpQfqrssAMZEPP3YAusKZ5YRz
+LP====: H4N9BtrjzSS5uWNSBMuooY5bjAEeNoms2W5tTYKWzuRC
+vaultAmt=====: 97.628060715
+===================================new buy tx====================================
+baseToken: 6b1Gj8h5N7TSZv3HwnqXkGShZGZJ6GCrfRkha3Djpump
+mintID====: roBZvKCihZ4NmPwZf1cKPPtYtyJc5PUPmiQB7Jspump
+poolID====: 2ux4R8biTNMgvirndxHcaBpt7s2K4wPE4uNkKRk5LmVS
+LP====: B5RzGTMDvkAG2M8qDg9sqGBdmbeM1HGR4QAacd4UjHwL
+vaultAmt=====: 97.970116906
+===================================new buy tx====================================
+baseToken: roBZvKCihZ4NmPwZf1cKPPtYtyJc5PUPmiQB7Jspump
+mintID====: FqH3TyDyMuELV6yhEMTSrchpqoHGJuTNBE1XW3iHpump
+poolID====: 6ZyAT89n27t6tQBQDoRqg99wzncAG3NhwDinJi9zKkan
+LP====: 6nMLWWnoSzJnA28yjnYWuXyLnUU8rHuvsZWKVCCRrKyM
+vaultAmt=====: 98.07570288
+===================================new buy tx====================================
+baseToken: FqH3TyDyMuELV6yhEMTSrchpqoHGJuTNBE1XW3iHpump
+mintID====: ARzN3ZQZeNBx6sY7QmcfaJwZRGZqumU6ZELpCfXApump
+poolID====: Ar7biDi5nWwF9o7VRbRnce4kniiSqoz92FrJoxVPzWdo
+LP====: 2MVexdrG3jhgUzJaai98dSnd1Hy2Zoh9mvz3hSkq17wQ
+vaultAmt=====: 467.69778668
+===================================new buy tx====================================
+baseToken: ARzN3ZQZeNBx6sY7QmcfaJwZRGZqumU6ZELpCfXApump
+mintID====: 7cNCK1P8pKCavYyDuqRJMwwxWiWn7s9EtXS9wP7Ppump
+poolID====: bDBsuisF6DttB2j7YTakxv57GBgxVknHQbMJn7o2AAK
+LP====: 49JbD5XFdLx3Yc2pyRKQsCc6E6mTvZdCzNonbNAqo55o
+vaultAmt=====: 123.073068839
+===================================new buy tx====================================
+baseToken: 7cNCK1P8pKCavYyDuqRJMwwxWiWn7s9EtXS9wP7Ppump
+mintID====: HWNS5AHRtLv4kYt52FPPof3gv5henKNEjmzPeQaNfDx1
+poolID====: Cr9EZABYZuEQPKGF5wui3e8V7CY8e5YweDm2667Rq57P
+LP====: HcitojN86psiSNckjcuc69m3qsTyG4eDP9km8z6cpJv6
+vaultAmt=====: 100.913306057
+mintID====: HZnDpWqHAXdYVM5oVUy1Py9ZwfkeUcDUwUwyvu69pump
+poolID====: UsMWtrWRZFpT1j1beponFFwipW1iS7girvF6KoxeQJB
+LP====: 64tpxsmjcjTu1umD2tMqZTv6nbCrN4vGW8zsnjt9fZat
+vaultAmt=====: 88.962701755
+===================================new buy tx====================================
+baseToken: HZnDpWqHAXdYVM5oVUy1Py9ZwfkeUcDUwUwyvu69pump
+mintID====: bMf9haBPjuZoJts6agPuDZJdFUyJXCdfiw11g3ipump
+poolID====: 8zTaghzggv7884X1tC3q49ndRpvRnq7fuaCob5qzDuRh
+LP====: EhBUvwSKcfztr5pE6EWxiwmLegGQ3x83n8ucFnQDuEXu
+vaultAmt=====: 107.283303809
+===================================new buy tx====================================
+baseToken: bMf9haBPjuZoJts6agPuDZJdFUyJXCdfiw11g3ipump
+mintID====: 9X6ki2FYScBRisLTmhj43buEMTUvJ754FZwCct1dpump
+poolID====: 2g2yZDtvFxR8Yua3L7RqxfX2Ly3RpJHmVpGDNAnRnpgt
+LP====: 7KYc69FaWeYsjiZUTezdSUWG1vDkitFZ7kaeYvLJugZ4
+vaultAmt=====: 188.995483691
+===================================new buy tx====================================
+baseToken: 9X6ki2FYScBRisLTmhj43buEMTUvJ754FZwCct1dpump
+mintID====: 7ziFv5M5gASKKaF5EejhUtfmpEzgs3rCH5vJcy8vpump
+poolID====: DX1V5eqNeQQDZoHA1eda9r64DtWdsprEg5HV4eFu4KUk
+LP====: 62g9VivAxMcGazp69geAzeNLrLVCR3c5ZS1MsrusToY4
+vaultAmt=====: 100.838891031
+===================================new buy tx====================================
+baseToken: 7ziFv5M5gASKKaF5EejhUtfmpEzgs3rCH5vJcy8vpump
+mintID====: 6yK6sVV5DzveBm4XRnswQRihUykje1akinZd1pcDpump
+poolID====: 4MrNBqBcQ1LTnDE9WyFiKHQwiRdkTTUZPdmd6LWbh58u
+LP====: 4ZEARdhgxuFopM6ZM5i3tMqSYmkGS2ttGuKpp7LYBmTD
+vaultAmt=====: 101.190726184
+===================================new buy tx====================================
+baseToken: 6yK6sVV5DzveBm4XRnswQRihUykje1akinZd1pcDpump
+mintID====: GRQfnwWyhd4qeJqUVCZo9ku61p3YN7MWCCk8vBXnpump
+poolID====: Fyur7UN62doPTRKx8RFGGUaC3LgGUC7Ry5kSLHyrWYQD
+LP====: 5d9uemm9mtTTXQpSqJgquMcVjkhvmTKJhEDcNvS8vPhE
+vaultAmt=====: 225.973017172
+===================================new buy tx====================================
+baseToken: GRQfnwWyhd4qeJqUVCZo9ku61p3YN7MWCCk8vBXnpump
+mintID====: C5MZJLDQjHzgWfUUL1CsFk9ct96St6QN7KBuBfo8pump
+poolID====: 2KFhmFQCJoSv1SDPkpX5HAQ1j5jkF3ReU2tvFz2ZsDNV
+LP====: goe5fZ7CVVVZUa1DaiAQpr4gNNKT3K37giY6eQ55Cd7
+vaultAmt=====: 249.60085741
+mintID====: ex19ziUeuoks7wF3sJPEhTwHUmSSu1E5TEabVsepump
+poolID====: HyrmNLTzdhi4TCeetHEa3jUW962Wdh9L8V3uSS59bHjX
+LP====: BR2GE6TqdY6RA45K8QnZMNVwvPTRXNFG4WuExY1CCiA7
+vaultAmt=====: 261.824395294
+===================================new buy tx====================================
+baseToken: ex19ziUeuoks7wF3sJPEhTwHUmSSu1E5TEabVsepump
+mintID====: 7He3UXMzC2YgxyKuroUULrqRcCSNE9RHqjao27PApump
+poolID====: 6oTguVXYSR8exxcawciVKHvkxJWUkdiJMevRT4taVz27
+LP====: 5xjfQX9g3hFGQSJ6FVDFTsgUtFoUt4LnZX1Km8tDzizg
+vaultAmt=====: 82.644745554
+===================================new buy tx====================================
+baseToken: 7He3UXMzC2YgxyKuroUULrqRcCSNE9RHqjao27PApump
+mintID====: 3NUd2L6iupwySxJGZ3L5JtuBdqwoJeTZ3P2QkG1Npump
+poolID====: FDMX8DFDHtQNGhrxYpEorm5ddNDr9fk6o6ppFL7vGVyX
+LP====: 8dLMskhYjHT9wi47oASNGF6hMv7Uyq2ydtCi2i2njNAH
+vaultAmt=====: 94.792742388
+===================================new buy tx====================================
+baseToken: 3NUd2L6iupwySxJGZ3L5JtuBdqwoJeTZ3P2QkG1Npump
+mintID====: 8v5L2phTxZtdK9GUTzvsx9tX21Zw116xfVF5XvxZpump
+poolID====: HZtS9bicabYBxDzNXb1W5pfK6ki3s6jX7QMroFtAe5Ha
+LP====: GD1pWg1o87BgQsjXwHaUG2g9WAcb7p5FAg8UumGc7pNS
+vaultAmt=====: 110.537043332
+===================================new buy tx====================================
+baseToken: 8v5L2phTxZtdK9GUTzvsx9tX21Zw116xfVF5XvxZpump
+mintID====: 7AVCH8rGcpSSbvWqGjTbX4HWcSQTSaSGf2dSQ2uNpump
+poolID====: DUbk6bTvksBYgpwBJUFyXsm7EcL8ugusZ9BBnBtkACfw
+LP====: 5uvKfUgsDNnwMy13h699ehXrBCCyYGPi6g9D7sBTgfSa
+vaultAmt=====: 101.674400082
+===================================new buy tx====================================
+baseToken: 7AVCH8rGcpSSbvWqGjTbX4HWcSQTSaSGf2dSQ2uNpump
+mintID====: 99CpoqrrXhk8FujizY9HV5aaVCbcaRbi96rcYRstpump
+poolID====: H7enzdSMTRnGrCxSuPz7H2nLSSVEQhRztp1Uqvkhuy1c
+LP====: wyGfsQ7axCo3GPL81TsZSg2CyPvt8sDBT976DHseVAR
+vaultAmt=====: 100.219774928
+===================================new buy tx====================================
+baseToken: 99CpoqrrXhk8FujizY9HV5aaVCbcaRbi96rcYRstpump
+mintID====: ByWWYN7kG57nksckshVKFAxdq57TRkHShYcLhpyNpump
+poolID====: 3B9X8NUpJQG7n8Z7BXxzHSayBbB6L1UrL28Ho8SHmG1W
+LP====: AZHZwGWCae8Tsf6i7DAPXvXNu6RDU3fQ19wZ7UvQ5ZTc
+vaultAmt=====: 87.891525659
+===================================new buy tx====================================
+baseToken: ByWWYN7kG57nksckshVKFAxdq57TRkHShYcLhpyNpump
+mintID====: ihV2UYX4LAQaE6fJ5fUv7GeKsQnSEGWytDByEBhpump
+poolID====: AY3YqocKuX14DmTSUpMDNP4pP3Baki5ar4tJAh4H3HR9
+LP====: VrrqiDQdDWFtS23TTUHrwUWYSLAKzdrWESD6VckZ22G
+vaultAmt=====: 207.224852036
+===================================new buy tx====================================
+baseToken: ihV2UYX4LAQaE6fJ5fUv7GeKsQnSEGWytDByEBhpump
+mintID====: GMt3sc1J5xRHx5NDTVmUynb2qFcQ2qiCS8YdND2dpump
+poolID====: CCwmz8S8pizMLBCZWopkeJ2i5XLSsFWCirk7hhSmt23L
+LP====: CZ4hwNYg6tJ5KQqhT1oBaiZseus5GGyKZ2gwnGcZuDii
+vaultAmt=====: 1850.5402199
+===================================new buy tx====================================
+baseToken: GMt3sc1J5xRHx5NDTVmUynb2qFcQ2qiCS8YdND2dpump
+mintID====: DZsGvFKb9TGKemBx1CMF9EWEVeEuMXNtQNVW1qAppump
+poolID====: Hh4DVzdaLEBvvUu1nXqnQvbMZZ3dGv5tKKG3QvPYQHBH
+LP====: BNBY5AkwUHYvVvMR9iDoJXn3zFvubTsjPk18bqE6psZY
+vaultAmt=====: 219.88149408
+===================================new buy tx====================================
+baseToken: DZsGvFKb9TGKemBx1CMF9EWEVeEuMXNtQNVW1qAppump
+mintID====: HHr3avYJN1n8rjGDNSWA1uKd2FuTpFJUhBMHgLspump
+poolID====: 73gMFD3jz2X4U5DMouPe4MPTY26abYQE4dCVY2GFGVuX
+LP====: DU2DWNDEc8jK1jf1gaQD9TiNkUgXb8szoEJ6N1duaUXB
+vaultAmt=====: 162.824255123
+===================================new buy tx====================================
+baseToken: HHr3avYJN1n8rjGDNSWA1uKd2FuTpFJUhBMHgLspump
+mintID====: 6oPJvMEnbDN2JwZGhwXyygjEFAiF4A19RFGaWPgpump
+poolID====: 2RfVipeoMtMfcfckdS4JvBZN1x6VUYkTSndHELeXvFX2
+LP====: CqAaowgkhwbMFuPpYXaBMs7Ga1yt3njgSjBrjyafRART
+vaultAmt=====: 229.22107446
+===================================new buy tx====================================
+baseToken: 6oPJvMEnbDN2JwZGhwXyygjEFAiF4A19RFGaWPgpump
+mintID====: 9zngBYPJZRbU92Ksca7vMTnrsSWXY8UY5K3Cbhfkmoon
+poolID====: 9TF4xwwaWJBzdLEQEV3aEm5hRaDTDQSoKe7nNch43dMv
+LP====: 8zr2TyCWsSm5eiWFQtdgnfdViYB72u9WtV9eDZFHzfSr
+vaultAmt=====: 131766553.61922605
+===================================new buy tx====================================
+baseToken: 9zngBYPJZRbU92Ksca7vMTnrsSWXY8UY5K3Cbhfkmoon
+mintID====: 9bBG3qT5Bt6E7XsLFjN8bprbeLAg8rPELnevE2Gwpump
+poolID====: CagJ3N81FVpcoxkGM4g622XETawLmPqHzut2wvraRRaj
+LP====: 67h5sAwsMmi8Ned9SHXFpcEbRsKG1pUK9enWiMxPTP1M
+vaultAmt=====: 169.616403482
+===================================new buy tx====================================
+baseToken: 9bBG3qT5Bt6E7XsLFjN8bprbeLAg8rPELnevE2Gwpump
+mintID====: GSHAtowHVNZjyimS8XCK8XqfPN4ZmwkkCthnc51upump
+poolID====: Hjt1RVYtqhsFRpbwTA82UFvqvPvEUwC5VF7BgdmqNvcn
+LP====: FrB55WALqyjvtwvALUgCdZ4RhFKvPcGdVfZND3dNUa6R
+vaultAmt=====: 102.76938708
+===================================new buy tx====================================
+baseToken: GSHAtowHVNZjyimS8XCK8XqfPN4ZmwkkCthnc51upump
+mintID====: 8tNvofycstkGASVvJbfPo7UALqZU9QZ3cWLktWw3pump
+poolID====: J8f25PSEGXKXxJfATKvDZXhWALqM7JGfA6y9C5wXWqgP
+LP====: HPLWjYfXQ8BXXEocbbZsmAyhwD78mguhasghA2rfDCov
+vaultAmt=====: 95.579302757
+===================================new buy tx====================================
+baseToken: 8tNvofycstkGASVvJbfPo7UALqZU9QZ3cWLktWw3pump
+mintID====: GEy7gG3RHEMbRkvR4zQg1bR6sMe87PxWHjpS5a15pump
+poolID====: 63nB6LwWkVzR2n8Gi875B7sjEZnStGMtMm2KhWNJQJrk
+LP====: GSMmuXzibjqmdAv1r5GppWCv7QiscswM9TKZvrcA8g1n
+vaultAmt=====: 83.298207081
+===================================new buy tx====================================
+baseToken: GEy7gG3RHEMbRkvR4zQg1bR6sMe87PxWHjpS5a15pump
+mintID====: 7fzeGBEVNP38uj6kPRG3pufGTuM1tfX4Hi9bREELmoon
+poolID====: CBA5QcxpuXmnbNEvzM9ozR2UqhbbjBLpVQyWMXi2x6bS
+LP====: 9o1HSmZGUEYcyGsthDZpGbx8zBCGamKw2e2B5fH2xGCR
+vaultAmt=====: 107866539.42156905
+===================================new buy tx====================================
+baseToken: 7fzeGBEVNP38uj6kPRG3pufGTuM1tfX4Hi9bREELmoon
+mintID====: 8jQuoTXsFBUd6utyKAjPJtCEsSrsMSkQcsgKZnHNpump
+poolID====: 7mRdqyCRd56NfMk9yurX4LPgkftE81J9jcFYW6DS3Ykm
+LP====: ETXxDsChLjgp2VMzP4neqeF9r4UKTmnuqsi6fK2cBkfn
+vaultAmt=====: 126.430647685
+===================================new buy tx====================================
+baseToken: 8jQuoTXsFBUd6utyKAjPJtCEsSrsMSkQcsgKZnHNpump
+mintID====: 2orH7BVvstUcVdZk1mEfUfD6psQ3cfhF2dtdefxZpump
+poolID====: 3rim68G8MywDcTnppn8RtCeXUbvQVd5SaGLdtEdkcc3f
+LP====: DfuadGS8Wt56p4ugSpyneSWCDgtDQx1FHrqQNwbA7uxQ
+vaultAmt=====: 108.877652687
+===================================new buy tx====================================
+baseToken: 2orH7BVvstUcVdZk1mEfUfD6psQ3cfhF2dtdefxZpump
+mintID====: 2QCRbP71FerG9HJJhbXVFxvRYHv79R6Net7wt2Sbpump
+poolID====: 8NwbGTnTjTk3LnW4aZbDfP8V2tVHB8VDco9CxUqA8wpi
+LP====: Ex7zhpSs66vWiZMx4M3ZX1PLys9vgAhatfrrCagDLhRG
+vaultAmt=====: 96.362344733
+===================================new buy tx====================================
+baseToken: 2QCRbP71FerG9HJJhbXVFxvRYHv79R6Net7wt2Sbpump
+mintID====: 5Wo4wcJcXbdX7qpNQ9Bg2oYBDKdGU59r418kafTspump
+poolID====: 7vwgk8t8bA6YUCnx45SybQeBh8ZtAMSrK9dLounJQmck
+LP====: FFMfHUqxPmcAsT9oAJvKWPPrHhbs6Pw6JHGWEr935TWb
+vaultAmt=====: 101.962290754
+===================================new buy tx====================================
+baseToken: 5Wo4wcJcXbdX7qpNQ9Bg2oYBDKdGU59r418kafTspump
+mintID====: 6qJgpNL7cWHCkzetbSh3urrmxf1hpE2eqqcMsTtFpump
+poolID====: FNRQkf5FKh7PwNFhmtNnF1X463G58hUVSYiTj8WaMVpi
+LP====: HRMm2upn7ZVCTtcgNjiymEddDqMTrAHpNa5ynUWhXA3n
+vaultAmt=====: 112.380622571
+===================================new buy tx====================================
+baseToken: 6qJgpNL7cWHCkzetbSh3urrmxf1hpE2eqqcMsTtFpump
+mintID====: CG5SbBCbvkcaTefjCXdMtC8KHMMptERnRAPgkYNNpump
+poolID====: FYVAnyYDthM5fVnvHbao3fR95wUu1D1ChZwju4KaQQJW
+LP====: B9beXm5zYu9uuySkfaBQq2rujZG1eGk4g472C3kNmFNH
+vaultAmt=====: 120.534986935
+===================================new buy tx====================================
+baseToken: CG5SbBCbvkcaTefjCXdMtC8KHMMptERnRAPgkYNNpump
+mintID====: HMdmbv35DvbH7VxWSwXaxE1NNyA34HHhs9Cu9ycZpump
+poolID====: 6JijvSNVFmJAXee8vgemBDMHAxpX9Egh6rgMxG7dyGws
+LP====: Fa4nxB2w8CXGS7xtmKbhvaj8VReTXxv4M6HSD87btmii
+vaultAmt=====: 83.803060433
+===================================new buy tx====================================
+baseToken: HMdmbv35DvbH7VxWSwXaxE1NNyA34HHhs9Cu9ycZpump
+mintID====: 5Z5a1aTBZjshHd1Rxp6Pq6e9JWBCWVeTMipCLTNxpump
+poolID====: 3zZSr9UwkMXD1FSiuyT15JC2pWPUtdcfqzc5x7fTmtEJ
+LP====: 61ZwWi6AJ1VrpvPPFPu6Q4mtXtrdUnVqfyJAWcgzYFTX
+vaultAmt=====: 128.494141087
+===================================new buy tx====================================
+baseToken: 5Z5a1aTBZjshHd1Rxp6Pq6e9JWBCWVeTMipCLTNxpump
+mintID====: 7eMc43xu3BSFJJKi45UiSNsivroWh5sUKfX7biqApump
+poolID====: 13zaJXgs44kS73Zc8RTZYzkXNv4feWXvRGZZqdrcGZfo
+LP====: 79FjPHjeg6HxdQDUYotwR5zmd1Gf3nCLDiKVBN4Ux5fW
+vaultAmt=====: 153.610762135
+===================================new buy tx====================================
+baseToken: 7eMc43xu3BSFJJKi45UiSNsivroWh5sUKfX7biqApump
+mintID====: AVXJU4RTorSAQbBcSn79xzKppdGCPU9GdmdfBuVopump
+poolID====: 2ybw2WpvWmUj3n2i83HaFZPLxzLdDj9ZJ6qTUrfLrAjW
+LP====: 6ytyLHv9Awur3QRzc5qnK9xV1LnccgTbXkSzdn7eHjvC
+vaultAmt=====: 227.746010935
+===================================new buy tx====================================
+baseToken: AVXJU4RTorSAQbBcSn79xzKppdGCPU9GdmdfBuVopump
+mintID====: CuEinqYmh5dXKvQEPZm2a51grx7AcFEnpuo9EYPbpump
+poolID====: CyC9Fb3hBmjmkS6BPE3rLBCbYpGychPfnBvV7n9wXbEu
+LP====: DrWxi2pXvL444mwaw3rVyCVFgDQ7iw4Ymk7cHLBTdsRi
+vaultAmt=====: 129.560996429
+===================================new buy tx====================================
+baseToken: CuEinqYmh5dXKvQEPZm2a51grx7AcFEnpuo9EYPbpump
+mintID====: 8K46km8y36CrAfEJCJCoWdtmz7hkdubCEbMqPDhNpump
+poolID====: 5qD2rBs5djzaiLsT4DaeFa8YLewbxYz7NkrZaSRJPgYn
+LP====: 8zanKSYfCphecQzpH6H6NSc2ciLZJtHeQsRqozytbskd
+vaultAmt=====: 221.336634659
+===================================new buy tx====================================
+baseToken: 8K46km8y36CrAfEJCJCoWdtmz7hkdubCEbMqPDhNpump
+mintID====: 2HxrCzbPo6DfnHSDviNgg7QTsXwQzLdxAUdjGc65pump
+poolID====: BAc3v9fUsdkeJgysSzfToDuuSo8M2ZzWbebjsXw59gA1
+LP====: 22uct4srwbbUozYWKCGUKHmDQ3e15ykVY829DmWWguaY
+vaultAmt=====: 106.098646645
+===================================new buy tx====================================
+baseToken: 2HxrCzbPo6DfnHSDviNgg7QTsXwQzLdxAUdjGc65pump
+mintID====: A9PnLhN8hjuSUiBiWgP6pdephXzrituM1XvcrvBMpump
+poolID====: 9BCCyBTAA6NukJESQ4sUY6S2x12LitXYS9vaRhQuyjSH
+LP====: 3AhXuHo7rfBmTBnRmY3zCR9H9XgDiYWZtaE8WKin6AMo
+vaultAmt=====: 97.206681665
+===================================new buy tx====================================
+baseToken: A9PnLhN8hjuSUiBiWgP6pdephXzrituM1XvcrvBMpump
+mintID====: HvU1ADA2amkZYiaMTY1fPV3qBFBWacYiR5EdPRexpump
+poolID====: CGdTb2xbWiMPDkKseS6oaaiE2mYQiCoDTBLYBVpu57Te
+LP====: A4oppcx5CwAx5ijH2hFjCoCkGnao5Yrvt9rT2Hum5cJu
+vaultAmt=====: 92.754116967
+===================================new buy tx====================================
+baseToken: HvU1ADA2amkZYiaMTY1fPV3qBFBWacYiR5EdPRexpump
+mintID====: 9goRmQZMQWjBDPY7wH9rFt2DN8HbqBt2AZYcGsWZpump
+poolID====: G35RGWvRNLSxzRceXnq1FaiGKHcRJszvSrbCBZdJSdGQ
+LP====: Ah1S99p6uGSGDdLUa5uTxBVdm7x6LgqtTHQyseycwFqu
+vaultAmt=====: 94.145411404
+===================================new buy tx====================================
+baseToken: 9goRmQZMQWjBDPY7wH9rFt2DN8HbqBt2AZYcGsWZpump
+mintID====: 8ZUqL6o8hDHW2dXFmH1ndczs3KXfooPidfKLDoY2pump
+poolID====: BPVBng5xJVt29BVRKqRkWKav1PNvEnfxH7VUP93QbLz3
+LP====: 39FepzJn79t61JaUntmvtXqw7ezUTs7aNoagRnGD6Ve9
+vaultAmt=====: 91.68453921
+===================================new buy tx====================================
+baseToken: 8ZUqL6o8hDHW2dXFmH1ndczs3KXfooPidfKLDoY2pump
+mintID====: CjowYLemehsVm8dkS7rHGSKjCqzVj27chYu7EZ1epump
+poolID====: GUvcLpttaCj6DrivTtEBbZep7axvn9yaxsNfqq6WjFj8
+LP====: ma8xQAaxRiMh1KeKcQ7UKiUacu2Z5JQ1odCsVEocepp
+vaultAmt=====: 102.53060897
+===================================new buy tx====================================
+baseToken: CjowYLemehsVm8dkS7rHGSKjCqzVj27chYu7EZ1epump
+mintID====: GJFjmHhmJ7j3e7phHDLCmZ4bYMZ44TWXASRvenVjpump
+poolID====: 99h8VXhiYn6EXgRFLrdMjRKFUKmQjfpDWCXBY4j3hj9n
+LP====: CWK7uoLKQxZ1WaYPJBMG9jpQsDwUTgiRcoa14FMwQqTP
+vaultAmt=====: 152.79530071
+===================================new buy tx====================================
+baseToken: GJFjmHhmJ7j3e7phHDLCmZ4bYMZ44TWXASRvenVjpump
+mintID====: Dvg5T6FYSwsv8LovbqDUGYmepttCMGbjJZpc4bRvpump
+poolID====: 2FUwHd15DQP3BsB9UjBfKZHPmoWHany7D1hay12dXV7f
+LP====: 8aDjR1hq3WKSGPNzHuL4h7iX5LFqNnjA5eJ4AJGnd5Ww
+vaultAmt=====: 85.385208935
+===================================new buy tx====================================
+baseToken: Dvg5T6FYSwsv8LovbqDUGYmepttCMGbjJZpc4bRvpump
+mintID====: Eo2DhjC5oJb9o8sZstvrcH5ChhnAuFBgYMz8ZQLNpump
+poolID====: G3EoP5u4pg5bfgdK4tM6xD2pZm6WQZ5g2bdUHN8Q3SUL
+LP====: J72DStijKq2XmYZrSyCXnweYf1mVuUkzFALvyAsKrpWE
+vaultAmt=====: 87.41880717
+===================================new buy tx====================================
+baseToken: Eo2DhjC5oJb9o8sZstvrcH5ChhnAuFBgYMz8ZQLNpump
+mintID====: 8M8a17PgMWuStpEe95SqsSVMTYQJ74y1DxDR2tnpump
+poolID====: FZjapgPxK43WeUJF348KJMX6EuC8mcQfUfGUcgbeN6Qs
+LP====: 3oe24jroUKGPLC2kWYyG5DA5PQqgJRHeE7bEW8tnDffo
+vaultAmt=====: 90.759005478
+===================================new buy tx====================================
+baseToken: 8M8a17PgMWuStpEe95SqsSVMTYQJ74y1DxDR2tnpump
+mintID====: GUKdAEXm6NjKEy76tXH8SjBpyF1uJJvKjfP95CDCpump
+poolID====: 7pim79HVsiKyEqS8znCUEzB2qb37YyQUCVD3bD5NFKsy
+LP====: 5RRLBDyDymaDhAA84UXxxR3K1h92h2Zp1nJqvAjFZRjB
+vaultAmt=====: 101.10934035
+===================================new buy tx====================================
+baseToken: GUKdAEXm6NjKEy76tXH8SjBpyF1uJJvKjfP95CDCpump
+mintID====: 9Pow2NVEqfUK3dF43CE7dxmanKVBZP87GY272tBLpump
+poolID====: 5LyaaY2nMMWqBGNpzPu6UpCmDVRAhQ4bbpqY2zfUi67E
+LP====: B7sshFdtetXiuyKs4o5gowPiByQyE1mEX1qPnDnsbFQo
+vaultAmt=====: 85.196882654
+===================================new buy tx====================================
+baseToken: 9Pow2NVEqfUK3dF43CE7dxmanKVBZP87GY272tBLpump
+mintID====: 7p2i4fHVFTo2HoxkgDgKRESgb2af5otBeQBcBZ9Wpump
+poolID====: 6z4BGxGaYFWd6iBSH9QcnTnTHq1r7bw5c1Rs6SeLGfZX
+LP====: HU8Md1qY3SUodfWwVETjUP1kGJxwVt3LTW8RtSb1ztKV
+vaultAmt=====: 83.684284098
+===================================new buy tx====================================
+baseToken: 7p2i4fHVFTo2HoxkgDgKRESgb2af5otBeQBcBZ9Wpump
+mintID====: 3NJyxcY2gY2bfSVqYwh7u264cru5gVTU3jsGgUKCpump
+poolID====: Cx22y4UetbNi9vMexSYFtDtSbofeWAcdm7gY3uvjegXD
+LP====: 8Go2pLtmWBbr6vPMcxPisPtKC5her9mvcCzU5W4izAqo
+vaultAmt=====: 91.095992097
+===================================new buy tx====================================
+baseToken: 3NJyxcY2gY2bfSVqYwh7u264cru5gVTU3jsGgUKCpump
+mintID====: 9hwji4hgoVh6SnrzZvp4DdmP7g4uvncjDYbzsPFKpump
+poolID====: A7hStTkwP8vzErayKSm7aTGxoxjCBH1SE7eD5n8ofswn
+LP====: 7hHTjjNhNRTCJEJtaVHv5bh2B2X13xfYpiNHNdmL5XXt
+vaultAmt=====: 473.993430597
+===================================new buy tx====================================
+baseToken: 9hwji4hgoVh6SnrzZvp4DdmP7g4uvncjDYbzsPFKpump
+mintID====: 5W8ERGZvumFQXq9pNW7mgDHwyJhFfiunBkurGTnppump
+poolID====: CywKG8cMhyzsQjwNpPpRZN7ckjQwjxuQUTvcpb22GUtU
+LP====: 87X643WBvswNVUcGiAWf8SoGyLFbAKsjZH3udLZThSCD
+vaultAmt=====: 82.53934741
+===================================new buy tx====================================
+baseToken: 5W8ERGZvumFQXq9pNW7mgDHwyJhFfiunBkurGTnppump
+mintID====: BC9P2C4b83eAfGyRFMiJXQ7H1nyUKrqmKHmdCWpepump
+poolID====: Hj4SdgQ4hF4JPTiFbQwFaLMDe4Yb4S9dfNKxV2WYfxvW
+LP====: 6x4BjDpmuvLdt5Eb7Sm8AzSiRwpsYP9d1yP3rnCUiY2W
+vaultAmt=====: 173.844033389
+===================================new buy tx====================================
+baseToken: BC9P2C4b83eAfGyRFMiJXQ7H1nyUKrqmKHmdCWpepump
+mintID====: CHDe3sX44MkHQmEoitacCEvf1sm3PySAaAuYENpApump
+poolID====: D2BDEWLNZKWDEeRRc6xmXkwuC3nSNAMXpBwdWsPVqgb2
+LP====: DwThTSWFK2AkEtQXF4wfPomtvh3Y52mP6YSc7X8NxRQo
+vaultAmt=====: 87.630049733
+===================================new buy tx====================================
+baseToken: CHDe3sX44MkHQmEoitacCEvf1sm3PySAaAuYENpApump
+mintID====: 2ap8E3bBdqTEN7ESHA721QEkuzRAMqYYGDzgqo55pump
+poolID====: 4mYW17qSxKXSUgye5zskvHA8ohDFdBvCP9aiKt2pdqcW
+LP====: 2nnCT2QU9LcW2Dm7bUjU4UHgntiSwfGquPoJQA8nrhxB
+vaultAmt=====: 96.546023634
+===================================new buy tx====================================
+baseToken: 2ap8E3bBdqTEN7ESHA721QEkuzRAMqYYGDzgqo55pump
+mintID====: CBSybNuWPF68NP9HbWxwJHqxfZ6eAg3Yisa8ZNyEpump
+poolID====: 26NPcY451EBpNT7hagPJYrM8jKPRs7iaFfNiCJim1zkx
+LP====: DBXUBN1wk5EhE3MvH7TF44bNwWXvh3pJVSZcc5kd5cC6
+vaultAmt=====: 88.70184395
+===================================new buy tx====================================
+baseToken: CBSybNuWPF68NP9HbWxwJHqxfZ6eAg3Yisa8ZNyEpump
+mintID====: 9kSwaEawaXupDvwdkRXKdrZxQe1btjefdzgYykmhpump
+poolID====: 24SWQT3xpyCKPwY53cXxHTexK3RXWkf25U5aE5fiMRjw
+LP====: DKorefjk9gWHNEvBvPJiBVNjAhovidypyaMhRExxRLBN
+vaultAmt=====: 100.594443438
+===================================new buy tx====================================
+baseToken: 9kSwaEawaXupDvwdkRXKdrZxQe1btjefdzgYykmhpump
+mintID====: BtLRoTeGstRjN92w6cnAJppdWoGzhD4AjHQqv2a4pump
+poolID====: AqVZgMJGX5Wi4C2tzxP7U3i4yxZcfd1chSStwCg9gQwy
+LP====: 4KwokTaXYWtrVr3TdxNoy5XX7CZdoAxbskaPd6pYqiq7
+vaultAmt=====: 105.915760973
+===================================new buy tx====================================
+baseToken: BtLRoTeGstRjN92w6cnAJppdWoGzhD4AjHQqv2a4pump
+mintID====: 5d2fBBD3w34rNHWqAnmbGzN1Jn2jwo873Yk73Mvqpump
+poolID====: BfMTv2E5EGBXtjhgWjLMVGeaJTQWTXoKcvKBYgiqSjTr
+LP====: 44rRQyFHA13RDLFCSV8dYmzVirnbo6jwvJ4AuNce3FCZ
+vaultAmt=====: 81.158465083
+===================================new buy tx====================================
+baseToken: 5d2fBBD3w34rNHWqAnmbGzN1Jn2jwo873Yk73Mvqpump
+mintID====: DxLyPUE5UTtJ6Z5rFx3pdSuv1ih6LvGczVP2jdRgpump
+poolID====: 2DHUuoZtFDvUKhihYxMMveuyuAAszEP8Li6tHH4NaAZ4
+LP====: EQhvxwChBCyy6Q4D376G3CYH1dwE6a23SPyEun41cUC
+vaultAmt=====: 86.858230464
+===================================new buy tx====================================
+baseToken: DxLyPUE5UTtJ6Z5rFx3pdSuv1ih6LvGczVP2jdRgpump
+mintID====: 8bzhTiz84MShJ3Fg1YfGPiJ43q7ToxwqqNGJduxQmoon
+poolID====: D6goL6xVjWCRs61spCQ15BsDU8X8CisDCpR2DU4WadgT
+LP====: 2mePA7keZf72s2U29h5mtCJHXQDkekpCerXj9Byfbq2s
+vaultAmt=====: 155634633.4323796
+===================================new buy tx====================================
+baseToken: 8bzhTiz84MShJ3Fg1YfGPiJ43q7ToxwqqNGJduxQmoon
+mintID====: 2A9CpgugwScQiDNiFzzEsqmdmUgwA1JKxPdNT8TTpump
+poolID====: 4XVxRy6AnnrjHLmfaUMZmVUHKrZwfLMnhfF1Zd2HjCte
+LP====: 7fN2LoPFqM4SdAQyQFAjtpPSfe3Enar8kvJ6ikB3TXY6
+vaultAmt=====: 91.190007006
+===================================new buy tx====================================
+baseToken: 2A9CpgugwScQiDNiFzzEsqmdmUgwA1JKxPdNT8TTpump
+mintID====: HCECjGkcocqHHVFtUU5TpvtuFjAawfFV3UarRim7pump
+poolID====: 826fqyoY5R4zzKLet3sM5rSV6T9pwNBjELgE8y8SX6u9
+LP====: ChAv8NEn6sP6M4wCoeCfnu2SFwasNc5djQPkityaErXT
+vaultAmt=====: 88.769865878
+===================================new buy tx====================================
+baseToken: HCECjGkcocqHHVFtUU5TpvtuFjAawfFV3UarRim7pump
+mintID====: 8sAR2Waj2Qzjwid2iyTkf1d4Z4p6LD1s32JZSTHxpump
+poolID====: 6aumRJhC7v9VKNYS1T3txivX6CprYbPu7pYSbnB1bq7H
+LP====: J9vbMwZe1mSCpuFhnDPMLyKkt7tUZEBnV6vzKzgnTfCz
+vaultAmt=====: 81.201274668
+===================================new buy tx====================================
+baseToken: 8sAR2Waj2Qzjwid2iyTkf1d4Z4p6LD1s32JZSTHxpump
+mintID====: 46WHWyobc7ucYFpHtgMnGXey8fjA9cUqGmzDSv5spump
+poolID====: 71QocgDDTjbpbDjY12izEn7drSo2rBUES3NCP3PhpaP5
+LP====: ED54eSi5sZr9BoQ5Y56fooYQtUjCMFW4Vgozz7nN9cmz
+vaultAmt=====: 96.905913564
+===================================new buy tx====================================
+baseToken: 46WHWyobc7ucYFpHtgMnGXey8fjA9cUqGmzDSv5spump
+mintID====: YnLF3NFEXA6yUadPfHs8vD5yDTEQF8rPkNVr8Gepump
+poolID====: BpvWjFEvJSU1oVAL1JXmhFe1fd2B6qGPPzq8MArT8FP8
+LP====: 6dyJ6esxaCMTKUaRTipR4RyertKsSRik2t8zEBTvL3Wv
+vaultAmt=====: 109.831649912
+===================================new buy tx====================================
+baseToken: YnLF3NFEXA6yUadPfHs8vD5yDTEQF8rPkNVr8Gepump
+mintID====: Cibm3Smgdz8AD1aKp8cdo1MbwgbzHBGvTpeZTZvgpump
+poolID====: 3CddadZ5Ax7H9gXYaPVUJLa9A7UbbCiHyRS366CEkpnw
+LP====: FBBzCSFbDRd1QsdNaoZvr5tJbtmXmfqMSjsKNXzDtMgN
+vaultAmt=====: 139.398143356
+===================================new buy tx====================================
+baseToken: Cibm3Smgdz8AD1aKp8cdo1MbwgbzHBGvTpeZTZvgpump
+mintID====: 31cr6BLn9QZjTJm76wKai6HgKNcrs7mwBP9XJPmrpump
+poolID====: ESaES4aGVgofjGf7pcAqQrXeFQdrUm7b1Kxq1Ue8HEfr
+LP====: 9tbJ2af3Yc9xoH5UzMvf2W7qLLwWMeETS7Gm6VWgNxQ
+vaultAmt=====: 90.875555575
+===================================new buy tx====================================
+baseToken: 31cr6BLn9QZjTJm76wKai6HgKNcrs7mwBP9XJPmrpump
+mintID====: HQWLVW4U62P8MbxCQygiRHzyF1VPGxH7rYx8DLQepump
+poolID====: 8r5f2wUoES3SEkms1WxkijzgPYZDF18ex8oP3xR7rPgz
+LP====: 4WcZdJTay9ofBeewsMvYgjmZ7JR3yspHFEoeegNptA6S
+vaultAmt=====: 108.976424532
+===================================new buy tx====================================
+baseToken: HQWLVW4U62P8MbxCQygiRHzyF1VPGxH7rYx8DLQepump
+mintID====: 5e7LXQaYAjYxM9K6ZWTn4YHtn7H1aRF2hni7h9gNpump
+poolID====: GThJBLBRshWnjm5yi1bWKWApz3HYii5xDq14S8eZiWp1
+LP====: D3jUHmbGrBoyuAazQvEyLK7QmVgizv5hNAsdQQwYN4pa
+vaultAmt=====: 98.275039612
+===================================new buy tx====================================
+baseToken: 5e7LXQaYAjYxM9K6ZWTn4YHtn7H1aRF2hni7h9gNpump
+mintID====: 2jVrLtjRmw5BFr4gU7iG27yPgVoAjUj49ESXZ3b6pump
+poolID====: Hgrt95wrdG71MSP4nWKCyhg6saXQq2HST476nXWSUdCD
+LP====: CFZ7qjV4zyeC7H1bzgXhAtnzWxy4iSnGBteqjiYLrD7Q
+vaultAmt=====: 85.117041554
+===================================new buy tx====================================
+baseToken: 2jVrLtjRmw5BFr4gU7iG27yPgVoAjUj49ESXZ3b6pump
+mintID====: 563hhsdGH2JdpuvJKfh3ef4okzQ7q7Yd9rCntbmvpump
+poolID====: GCK8JFfDZ6ctFf3fNY4T8JqLPk5pEJ5ZVfJamJxDeuRy
+LP====: ALVXNX5gBWxmdw4axdRLrJjhsNAtqtD5FsjcjhESGYyb
+vaultAmt=====: 88.153600951
+===================================new buy tx====================================
+baseToken: 563hhsdGH2JdpuvJKfh3ef4okzQ7q7Yd9rCntbmvpump
+mintID====: BvFeqFTATT4oBKKa9Up198uvz11kw1UBXApLipeppump
+poolID====: C3ft53fvEhqtvGSoLgXgcdE5r1bJDgpvu3ns3VBtDQSK
+LP====: Foq2vto6iPp9jARbdNEB3dG9NgHX6URckV2iQN65SBQU
+vaultAmt=====: 102.565007989
+===================================new buy tx====================================
+baseToken: BvFeqFTATT4oBKKa9Up198uvz11kw1UBXApLipeppump
+mintID====: 3twiuoutoJU8UHqvqq4diFZSThkaJpLjWFJAYPNopump
+poolID====: G9yYP6CqhzoSPfLHJQcU32xBmeR1VJZHKYzJER6w3rEY
+LP====: 25LEPyk9z6S8Huarnw41uuGS3rW3PJagbJEaDp2aUKXe
+vaultAmt=====: 96.244072876
+===================================new buy tx====================================
+baseToken: 3twiuoutoJU8UHqvqq4diFZSThkaJpLjWFJAYPNopump
+mintID====: DscxAqu3zbUeUuxuiB55EyfCJjW4PQDYuzgvUYyzpump
+poolID====: DYHZYnjy3yFTAzdfotwsrUvMz8E8USAGcAxxDsrDbQqd
+LP====: 7rQnimYeimz74MeBpURZuRE1YJEwHPQWPET9qCoEq8Qg
+vaultAmt=====: 134.912576429
+===================================new buy tx====================================
+baseToken: DscxAqu3zbUeUuxuiB55EyfCJjW4PQDYuzgvUYyzpump
+mintID====: 6CLkgTjkZbBnoVAKdLjvvobJhLxuJvAF2Uso4Tsupump
+poolID====: 62ZQFrwnHkqegzZCWted6wGrECGPcTbCK5viakpVyBWc
+LP====: 53v1f5ywsK5pbJzyzSX1pL8Net4fUkipRKkQuemYMKCq
+vaultAmt=====: 97.872363628
+===================================new buy tx====================================
+baseToken: 6CLkgTjkZbBnoVAKdLjvvobJhLxuJvAF2Uso4Tsupump
+mintID====: Dn6XvS5gyhwsja1ijUxksUQianwJEARyxA437VtHpump
+poolID====: RjXKavLDSCP6tRbsp5g9PG5Tid5xEdo6xeXVGhKnUQc
+LP====: 2884wVLVHt2ULnNnzU5HFRvgMunzn8C3vjNND2vfapRg
+vaultAmt=====: 91.635228785
+===================================new buy tx====================================
+baseToken: Dn6XvS5gyhwsja1ijUxksUQianwJEARyxA437VtHpump
+mintID====: 6wc1AWioGK4RcXSJZHf1nFKzv5guzGJrfsKc9B5Bpump
+poolID====: HiFJWsSP8Tb4xVG6dwcUG97bzp1F7D8sfRktHU6eZJeW
+LP====: 5JWkJFFQQeEgv3Z8mbmY2eF3Th8TZEfovkJec2rC6wJQ
+vaultAmt=====: 114.725168244
+===================================new buy tx====================================
+baseToken: 6wc1AWioGK4RcXSJZHf1nFKzv5guzGJrfsKc9B5Bpump
+mintID====: 5PZ2Mz66WWDAVQ5VBHTPhshQbq3DwF6VQBS7F6x2pump
+poolID====: HKKrfJPGCVE2KjcYT1zai19fN9mndvCvQKD1ifd9F5k1
+LP====: DHDJdx8CFuKeL5pqqBETYKL2EsP5p3Kq6t7kE3KVVinK
+vaultAmt=====: 88.899395989
+===================================new buy tx====================================
+baseToken: 5PZ2Mz66WWDAVQ5VBHTPhshQbq3DwF6VQBS7F6x2pump
+mintID====: 4uqEEiM6fVKuSMdqqxzcznJXieYCQ2aPnCi5PzK8pump
+poolID====: E4QkVhospJP6tovRZ6dKaHFcDwJE63qTCAzRsCKWzwUC
+LP====: 132J5mNUcBSZ5GD7HeC64qe8PRqo6La3mK5FjVWx9tDe
+vaultAmt=====: 162.387339405
+mintID====: 6w81Dx4DB5b9B9Wk33ZMb63WP4NaNVss6zPFmShppump
+poolID====: CwJPyfYqzH1Mx1WEpytUwAty5zfGS8M75xCVFJrZ1zBg
+LP====: BWwywCJiFtW5TFvgTcnkH3AP5bFrSLxJL3FJpFhq7pV9
+vaultAmt=====: 107.173984771
+===================================new buy tx====================================
+baseToken: 6w81Dx4DB5b9B9Wk33ZMb63WP4NaNVss6zPFmShppump
+mintID====: 65CFQVF1tfDMAtXrGDZR61M24D6eWrA8FpCDg44Jpump
+poolID====: F4mYpLhih9AKaA3k6xLFq2VM27B1cf82zD71DuSLXEgq
+LP====: 6F2czwSFrBgQH32HkXCVB7CYbrE5JtNSnuoZmgzVzvj3
+vaultAmt=====: 119.984401655
+===================================new buy tx====================================
+baseToken: 65CFQVF1tfDMAtXrGDZR61M24D6eWrA8FpCDg44Jpump
+mintID====: D51Jhbd6yZi4wDuyEpe1fcYY6Zwc7opszpgqfp1epump
+poolID====: 6dZPbivSQRRrEp5VjBTjuea5iRzQnJPKtWQLxvQ4yeA6
+LP====: 3TdALr5ztvTLFRaQZtnQSkoM8ijpZ3mV8eGQXEQsGG5Z
+vaultAmt=====: 93.964262772
+===================================new buy tx====================================
+baseToken: D51Jhbd6yZi4wDuyEpe1fcYY6Zwc7opszpgqfp1epump
+mintID====: 8P2CUUfNbMCJ8sZ8tttKkzdNbqk2D2ZncrBdS9QRpump
+poolID====: J6xQy53YAXYa9edBzZdCkPQypBmCvc7MnvHMr8Qokndm
+LP====: 4sNZPdHibyaBU9TUiDNHW6ECqnYn16TEe4phAK2UQSiV
+vaultAmt=====: 82.176944961
+===================================new buy tx====================================
+baseToken: 8P2CUUfNbMCJ8sZ8tttKkzdNbqk2D2ZncrBdS9QRpump
+mintID====: 2MgVEZooiC3XMupyBcavwAhQ8YqPLJNNHh4yqudfpump
+poolID====: FVU7r9sroE6TFRfqxiFrFPpjdZNt4wWL8p6Hkp37ujt6
+LP====: 88J9LVxijKViy9ejSQtz3akQXQH8rG7EST9oZK2WAK4c
+vaultAmt=====: 88.454394715
+===================================new buy tx====================================
+baseToken: 2MgVEZooiC3XMupyBcavwAhQ8YqPLJNNHh4yqudfpump
+mintID====: 89nJkkVQmLYeuWZRVrx572zWq1ThXCFrFxpXWhGapump
+poolID====: BCXrQE8fsRYwSqeJzgum5XjBx19Y13jmfagCzMwSwi9N
+LP====: 5NogRBTXafFUahxi47iKGG4cwRnFcaB4zJA9PPEmkrro
+vaultAmt=====: 197.910011159
+===================================new buy tx====================================
+baseToken: 89nJkkVQmLYeuWZRVrx572zWq1ThXCFrFxpXWhGapump
+mintID====: MjYX2dv1gQJZ8bKYCNvUvtJo2Z7egjrGQssqzMdpump
+poolID====: FjxCHh36zFkZKRpTGPMcCXt7TxN8e6ihJJ5LxAqdMtFy
+LP====: 5JvtcYvQ4fdncTAXjJAFNoyb9E3b7hqk5DRWByAdsnJn
+vaultAmt=====: 129.190536838
+===================================new buy tx====================================
+baseToken: MjYX2dv1gQJZ8bKYCNvUvtJo2Z7egjrGQssqzMdpump
+mintID====: 13qAYdft265v36MFbFKSANKo2whvGb6s3ZhpJqQWsump
+poolID====: EaXJHupWJJ7HT3jAqwwDBwF6PuaKiX7dGKemVSatpnV8
+LP====: G9SPAvPftsRyBzrjzPopjXWBrWsUFXW1A7jzufJPLFg
+vaultAmt=====: 84.943462379
+===================================new buy tx====================================
+baseToken: 13qAYdft265v36MFbFKSANKo2whvGb6s3ZhpJqQWsump
+mintID====: FAMPeEC5XvHKz49erxEoDhWMHRhRHBpF2pWrHWd4d3hR
+poolID====: 5zDj9xP9oaaxr2MoRHKy1vaKeyu3MGdDSCA6V4UC87Dk
+LP====: 3DxUkzXvj2Xh8DgxYfsjz7R8FuS8ta1ZSxsiPHpT9zRo
+vaultAmt=====: 129.810569022
+===================================new buy tx====================================
+baseToken: FAMPeEC5XvHKz49erxEoDhWMHRhRHBpF2pWrHWd4d3hR
+mintID====: 3yh4q5ZgZoYi68uiY8xp72M2iVKEmQJ9N96FF5Gxpump
+poolID====: C99AfuxvmDZNAGB5rFAMvKBhzWqo8EoA1Enuo31QvwgH
+LP====: ENfyJ2PqtsmNr7UWb9rKZCpf8SUHCbRqEHG3LrSxVhXc
+vaultAmt=====: 89.549409566
+===================================new buy tx====================================
+baseToken: 3yh4q5ZgZoYi68uiY8xp72M2iVKEmQJ9N96FF5Gxpump
+mintID====: 6GUTseHTXf2q8buLAodRAFnYWPqZnzxusxcjf9cgpump
+poolID====: 2KfuwXWvKGXFaCUQQGDHmMbogfmY1MvVhVEi2gZ5UPNt
+LP====: ExgE4N7hpDziUAZAFVzwEDTyBQ3Ldo13Exdsj5DXLWdA
+vaultAmt=====: 150.195190173
+===================================new buy tx====================================
+baseToken: 6GUTseHTXf2q8buLAodRAFnYWPqZnzxusxcjf9cgpump
+mintID====: 5GHb3v3VRVb7ngpu223rsf1hxqDVzFWTacsTSa7opump
+poolID====: 2BSsn7dbmiVBKuv9ikUyB9QaAZKnyhpnSMMPxdxnV4sw
+LP====: Df74axCAzLLVnJo23DZetJpt5g1e3AANfR2mpMTKTVQ3
+vaultAmt=====: 90.145671985
+===================================new buy tx====================================
+baseToken: 5GHb3v3VRVb7ngpu223rsf1hxqDVzFWTacsTSa7opump
+mintID====: CHsm1XoBdHoLtWJMjignaMmJerSuS5r1yAL2628wpump
+poolID====: FSC4cMg8PFdZNB68PcckDCBRJzCCuKct8nu83AktGGdQ
+LP====: 51GQ1L5QH8EFjP2b4o6ypFMDjyL3DR13UbYZSB51eYY5
+vaultAmt=====: 97.416557807
+===================================new buy tx====================================
+baseToken: CHsm1XoBdHoLtWJMjignaMmJerSuS5r1yAL2628wpump
+mintID====: EvqyzZsCQ3JmCu2BQNsGr6bVuSuhc2zKQCoN4Hhzpump
+poolID====: EmLd4kK6S1E4xeWZruT7UqJ1WNWsyVLAfmFcdVio3K8V
+LP====: 3a3tNLNCaC1nD6JpzUnAJusbFQP7yDernz1UytWcwNHN
+vaultAmt=====: 87.799940022
+===================================new buy tx====================================
+baseToken: EvqyzZsCQ3JmCu2BQNsGr6bVuSuhc2zKQCoN4Hhzpump
+mintID====: 5x6h61AZaqXdWjL1UWHD4TMBtEqbxR5qeVNJhuc1pump
+poolID====: 5xzuoybUeVYdXrUyMMEwjpfXppbWmHoY77gwwwSPhn6K
+LP====: JCKk2QwCX9GJG6egr1L21ZKKeBYb4o95Y1MxmsEf1S1W
+vaultAmt=====: 176.614461209
+===================================new buy tx====================================
+baseToken: 5x6h61AZaqXdWjL1UWHD4TMBtEqbxR5qeVNJhuc1pump
+mintID====: 3KarrZGNhpYj8E37YXpKA54vaaSDgRomeb3rdA8ypump
+poolID====: 9ejrgSngnH6g9Rp17wXi2VcmAzaTyVGANNr3D15h6VUV
+LP====: HnN1jGS1LVQoXWB7B1asvs6FvdbfbQWirLWzfrtFNyzz
+vaultAmt=====: 88.248344162
+===================================new buy tx====================================
+baseToken: 3KarrZGNhpYj8E37YXpKA54vaaSDgRomeb3rdA8ypump
+mintID====: oZo9UMkqeBQXxqWFhqi3xDVk2dWQWMRJ3Z9vE94pump
+poolID====: AiyT9vne7Vhe5hu7N7WsvZ8fjqR1ToXCzJS8cAcK83WF
+LP====: GV2iQdDVdN4Aukh9WREX9RnkriqBHAomvYbqBvNoxSYX
+vaultAmt=====: 206.229505915
+===================================new buy tx====================================
+baseToken: oZo9UMkqeBQXxqWFhqi3xDVk2dWQWMRJ3Z9vE94pump
+mintID====: ASXrpuNUbEJQGL9PQXymDmPtDXho9zCKrJAJAnqepump
+poolID====: rDL3vKRZTQxV8GYfPc2j9qnnvjs9PXoJMMb7Zc3hSFj
+LP====: J8xHRJzjFucKfyeVLDGGfzc8JCQP4WyCvG67J1FZ5QLH
+vaultAmt=====: 103.090099942
+===================================new buy tx====================================
+baseToken: ASXrpuNUbEJQGL9PQXymDmPtDXho9zCKrJAJAnqepump
+mintID====: 7a5YotowDECg8U36QK46YiyEQPmw8ixf68LAnTr2moon
+poolID====: BM2ui4AzmmULzthxNwQSvgSGuzxNQxrZVQ9reS8XEmSs
+LP====: FEQCHCVqfQ4pcFNgUJZWHRGb3UJip76LehkyEWtKEryD
+vaultAmt=====: 94558210.14440326
+===================================new buy tx====================================
+baseToken: 7a5YotowDECg8U36QK46YiyEQPmw8ixf68LAnTr2moon
+mintID====: mubkV5rTURWsaouZVkEdZiMg2DSuu1psMQrtVxSpump
+poolID====: DcVRVvg4A4T9C5Ab73VHcV5dE6AHzWCpMM4hracm8Gxw
+LP====: 91JiCippAyHEEmDiXRR83mjsB63hThp8purYgRaCosbR
+vaultAmt=====: 82.847757534
+===================================new buy tx====================================
+baseToken: mubkV5rTURWsaouZVkEdZiMg2DSuu1psMQrtVxSpump
+mintID====: 28ECNMKBj66GMBJxq1c3VyzJiKY5gDp2sEYc92Ybpump
+poolID====: DHAeayDZnb76kxF5T5fgh7n3txBuSPhwdHRQYQMYGywY
+LP====: BXFt4Jw2g6wbWE3qHumfmk76wWT6w8oyRjTeeo2RFGbz
+vaultAmt=====: 126.26515419
+===================================new buy tx====================================
+baseToken: 28ECNMKBj66GMBJxq1c3VyzJiKY5gDp2sEYc92Ybpump
+mintID====: 9A7BNoWLdPGXHEqqcRCB8yxV91RgVbbqVCfHiJKPpump
+poolID====: 95VQTBByRBjC5ovF7cyff7YCUH2sTwRYf8wS4yzAx9Ax
+LP====: 9S6RVbYYWZS5rGfjUeJ1DQgN4mUEBFqdsDDBu9Vu2ktJ
+vaultAmt=====: 191.478822019
+===================================new buy tx====================================
+baseToken: 9A7BNoWLdPGXHEqqcRCB8yxV91RgVbbqVCfHiJKPpump
+mintID====: 3ascVfFucUqwrASa2dDMNDzmLL77eSAcQQyLHM7Bpump
+poolID====: 4GUKyGH5fNr4gA6eFCbenZ2sHcxpMb2t1K6VSP1cGKzE
+LP====: 9wXMMqcKjoKRwb6F1UXRKUKyZ4BSMXQU4ozuXVKhghRB
+vaultAmt=====: 81.213816306
+===================================new buy tx====================================
+baseToken: 3ascVfFucUqwrASa2dDMNDzmLL77eSAcQQyLHM7Bpump
